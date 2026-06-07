@@ -96,7 +96,7 @@ button {
 
 <div id="final" class="hidden final">
   <h1>I know you're forever mine ❤️</h1>
-  <img src="https://media.giphy.com/media/3oriO0OEd9QIDdllqo/giphy.gif" width="220">
+  <img src="https://media.tenor.com/0AV1Q4Hf6hAAAAAC/cat-kiss.gif" width="220">
 </div>
 
 <script>
